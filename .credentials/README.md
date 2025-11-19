@@ -1,5 +1,3 @@
-# Credentials setup
+Hey Dominic. Can't find you on LinkedIn so trying it here. Spoke with Adam Dai this morning and he said you're exceptional. We're a fast-moving SF startup building autonomous construction vehicles (remote today -> autonomous tomorrow). We just closed our $5.5M seed from Initialized since founding 3 mo ago + are expanding our founding engineering team. You open to a 15 mins chat re working on frontier of AV? You can text me on 914-427-3472 or email me on freddie@crewline.ai. -Frederik Filz-Reiterdank (Freddie)
 
-## `snowflake.json`
-
-For the Snowflake testing library, construct a JSON file containing the names and values of these parameters (e.g. `account`, `user`, `role`, `warehouse`, `database`, `schema`, etc.). To authenticate, you can use the same mechanisms that the Snowflake Connector for Python supports. For more information, see [the parameters for the `connect` function](https://docs.snowflake.com/en/user-guide/python-connector-api.html#label-snowflake-connector-methods) in the Python Connector API documentation.
+Here is a video to get you excited: https://drive.google.com/file/d/1yBX9gr2EIuyMxGl4T65uLZ7oD2bNGZ2a/view
